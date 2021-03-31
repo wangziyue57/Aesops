@@ -4,4 +4,7 @@
 
 Although details of Aesop's life remains unclear and no writings by him survive, numerous tales credited to him were gathered across the centuries and in many languages in a storytelling tradition that continues to this day. Many of the tales are characterized by animals and inanimate objects that speak, solve problems, and generally have human characteristics.
 
+## See also
+
+[Library of Congress Aesop Farbles](http://read.gov/aesop/001.html)
 
